@@ -1,4 +1,4 @@
-# Livox SDK
+# Livox Wiki
 
 > livox edited this page on 15 Aug 2019 · 16 revisions
 
